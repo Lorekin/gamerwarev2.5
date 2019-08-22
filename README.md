@@ -19,3 +19,7 @@ menu screenshots: https://imgur.com/a/rDr7iQ0
 there is a very small anti-paste and if u cant figure it out ur pretty retarded tbh
 
 also this cheat had a somewhat working local animfix and fake chams. i am selling the source for the local shit for 20 bitcoin hmu
+
+../
+cheats that are using my source:
+../
